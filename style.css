@@ -1,0 +1,28 @@
+body{
+   text-align: center;
+   background-color: burlywood;
+}
+#HG{
+   padding-top: 10px;
+   padding-bottom: 10px;
+   font-size: 30px;
+   width: 600px;
+}
+#cam{
+   border-style: dotted;
+   width: 300px;
+   height: 300px;
+   text-align: center;
+}
+#Result{
+   border-style: dotted;
+   width: 300px;
+   height: 300px;
+   text-align: center;
+}
+label{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 16px;
+   background-color: cyan;
+   padding: 5px;
+}
